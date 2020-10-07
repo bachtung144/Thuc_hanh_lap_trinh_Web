@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="597c70e2-8baf-44e1-8694-7309304b0e93" name="Default Changelist" comment="asfasfaf">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/ContactFrom_v5/controller/information.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/ContactFrom_v5/controller/information.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/hinenosho-app" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -85,6 +86,8 @@
       <workItem from="1600219896467" duration="16000" />
       <workItem from="1601366212375" duration="2842000" />
       <workItem from="1601878539136" duration="66000" />
+      <workItem from="1601878655973" duration="1807000" />
+      <workItem from="1602034610201" duration="66000" />
     </task>
     <task id="LOCAL-00001" summary="asfasfaf">
       <created>1601369081945</created>
@@ -93,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601369081945</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="addd">
+      <created>1601878698968</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601878698968</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,17 +123,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="asfasfaf" />
-    <option name="LAST_COMMIT_MESSAGE" value="asfasfaf" />
+    <MESSAGE value="addd" />
+    <option name="LAST_COMMIT_MESSAGE" value="addd" />
   </component>
   <component name="WindowStateProjectService">
     <state x="475" y="60" key="#PHP" timestamp="1601366563051">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="475" y="60" key="#PHP/0.0.1536.834@0.0.1536.834" timestamp="1601366563051" />
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1600219910439">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1602034645082">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1600219910439" />
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1602034645082" />
     <state x="604" y="341" key="NewPhpFileDialog" timestamp="1601367562684">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
